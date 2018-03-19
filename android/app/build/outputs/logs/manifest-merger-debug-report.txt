@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.android/build-cache/e7d4c61ee2228e7d62faf6cb54f6b9190eaff548/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.android/build-cache/e7d4c61ee2228e7d62faf6cb54f6b9190eaff548/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/anismemom/.android/build-cache/7d3aee0e316189062d61fc705bc7480fbbbfba9c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/anismemom/.android/build-cache/8fb18fb91fd2a0b7c4d7d971d86648a82f8b8c74/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/anismemom/.android/build-cache/a0bf0c70bd4ea037e23ff530084e6853c7ae564b/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/anismemom/.android/build-cache/740a5d8f7d9561c59233f502fa2592d9a94f4b71/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/anismemom/.android/build-cache/bbb40767d327029cd0701ede5932f3cb2a43cd7d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/anismemom/.android/build-cache/323395ca4db2e7530505dc080f3149be725f01f5/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/anismemom/.android/build-cache/7294d258707b411a44a350b9741e95facb74e509/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/anismemom/.android/build-cache/348357540fe9f1f0445280b158554708e75f2bb4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/anismemom/.android/build-cache/cb7c5840d790de3e35f4abac87d0817cd9e40973/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/anismemom/.android/build-cache/1794ec92bedf4dbe164a1af0630d1c7856a0f995/output/AndroidManifest.xml:2:3-70
+	android:targetSdkVersion
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.android/build-cache/e7d4c61ee2228e7d62faf6cb54f6b9190eaff548/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/anismemom/.android/build-cache/7d3aee0e316189062d61fc705bc7480fbbbfba9c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/anismemom/.android/build-cache/8fb18fb91fd2a0b7c4d7d971d86648a82f8b8c74/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/anismemom/.android/build-cache/1794ec92bedf4dbe164a1af0630d1c7856a0f995/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/anismemom/.android/build-cache/7e0576cffafe043909b929bcd7de4292c4e0b3f3/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:allowBackup
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:icon
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:theme
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.testrn.MainActivity
+ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

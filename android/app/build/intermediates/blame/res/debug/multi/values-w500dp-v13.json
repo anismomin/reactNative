@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/anismemom/.android/build-cache/7d3aee0e316189062d61fc705bc7480fbbbfba9c/output/res/values-w500dp/values-w500dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 333
+                    }
+                }
+            }
+        ]
+    }
+]

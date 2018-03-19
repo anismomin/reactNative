@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTModuleMethod.mm \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/anismemom/Code/learn/TestRN/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/anismemom/Code/learn/TestRN/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/anismemom/Code/learn/TestRN/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTCxxConvert.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTManagedPointer.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/anismemom/Code/learn/TestRN/node_modules/react-native/React/Profiler/RCTProfile.h

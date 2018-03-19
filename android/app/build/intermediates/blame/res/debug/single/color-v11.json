@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/anismemom/.android/build-cache/7d3aee0e316189062d61fc705bc7480fbbbfba9c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/anismemom/.android/build-cache/7d3aee0e316189062d61fc705bc7480fbbbfba9c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

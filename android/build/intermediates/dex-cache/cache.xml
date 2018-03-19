@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/348357540fe9f1f0445280b158554708e75f2bb4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/classes_c1ce3aa37d5f0a6dfb3b6a8ac3a50b05548eeebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/7294d258707b411a44a350b9741e95facb74e509/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/classes_dfee1ffac0781656c7015a6cdae78f7eb4913456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/740a5d8f7d9561c59233f502fa2592d9a94f4b71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/classes_a099c37f03aab326a3cf4c8e3de8b257b957f5d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_d305c658836c9ad0b94b97c30e925ab5fdf958f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0ca5ca3c8ebe0f2b977e3a95b4c17633b2aea2e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ab6638410bd0c7029a1174c8131991a98557490b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/cb7c5840d790de3e35f4abac87d0817cd9e40973/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/classes_416fea98cad4dffaee28adc747c29844683e6a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_0d84d856202a06deb8f174659c8b283cba8f82d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/323395ca4db2e7530505dc080f3149be725f01f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/classes_1b62230a89bc793ad3d2fa1cee93c14511ce192d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/8fb18fb91fd2a0b7c4d7d971d86648a82f8b8c74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/classes_69f40f4c18704e289c0c269cb1f4139002611340.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/e7d4c61ee2228e7d62faf6cb54f6b9190eaff548/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6b6c44fc3170848059459af80ca851efa495a68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_8ae9ecd3d331c69772270a7ca92b1aa6ddffedfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/8fb18fb91fd2a0b7c4d7d971d86648a82f8b8c74/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b6fecd6d4b13a51d8b4dbdbbf7b11dcb9f9f7783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/bbb40767d327029cd0701ede5932f3cb2a43cd7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/classes_6e0b2c33ef2a15a4e23dba5d81adebdc799d1a57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/1794ec92bedf4dbe164a1af0630d1c7856a0f995/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/classes_d501b7ff5d8e26e05cf1bc58839274ec833c44e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/a0bf0c70bd4ea037e23ff530084e6853c7ae564b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/classes_f928f38da7e3ae61d8923d4324786036a42b0083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/7d3aee0e316189062d61fc705bc7480fbbbfba9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/classes_adce443b427dee73913e24dae4d6e48f12cda0b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7889591b522530877e95522ad4332e8e128ae26a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b3e77eb6447e55a7a05e9ff51d01f56299dd05ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_ee1f813159c561da4c0fa50b550e79072c28ffa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anismemom/.android/build-cache/e7d4c61ee2228e7d62faf6cb54f6b9190eaff548/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/anismemom/Code/learn/TestRN/android/app/build/intermediates/pre-dexed/debug/classes_7be21e7a30e89d4247b9cf0d12488ce047d051e6.jar" />
+    </item>
+
+</items>
