@@ -1,6 +1,24 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/cd86b9663fc8d84e821cafcd054d94ce/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/de3b9dd3f0181041df08f8d4a349e8c4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/b5513fc695885ee1ae459dedfab380a4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/01ff7f546df5ba89aea5c34bfc8b71f9/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/3fbb3c637a861a648e6a8b07ac18ac6d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/0d897e0b65500b891ea0d42dc3fb4d48/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/d297acd006480d31d21fce6ffbbc8a93/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d383d61151636bcad51cb6f6b2b8aa5a/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/4e23e90a507095afb136073f31b9977c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/22aba18c368efa8b511ee88afd40be52/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/9f07b9d9f976e15061f128ad8b5c79d4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/f260290a62e811cef8bb991e93d049f5/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:1-32:12
 	package
 		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:2:5-25
 		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
@@ -9,34 +27,50 @@ ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManife
 		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:4:5-30
 		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:11-69
 	android:versionCode
 		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:3:5-28
 		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:6:5-67
 	android:name
 		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.android/build-cache/e7d4c61ee2228e7d62faf6cb54f6b9190eaff548/output/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/cd86b9663fc8d84e821cafcd054d94ce/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/cd86b9663fc8d84e821cafcd054d94ce/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:9:5-11:41
-MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.android/build-cache/e7d4c61ee2228e7d62faf6cb54f6b9190eaff548/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/anismemom/.android/build-cache/7d3aee0e316189062d61fc705bc7480fbbbfba9c/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/anismemom/.android/build-cache/8fb18fb91fd2a0b7c4d7d971d86648a82f8b8c74/output/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/anismemom/.android/build-cache/a0bf0c70bd4ea037e23ff530084e6853c7ae564b/output/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/anismemom/.android/build-cache/740a5d8f7d9561c59233f502fa2592d9a94f4b71/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/anismemom/.android/build-cache/bbb40767d327029cd0701ede5932f3cb2a43cd7d/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/anismemom/.android/build-cache/323395ca4db2e7530505dc080f3149be725f01f5/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/anismemom/.android/build-cache/7294d258707b411a44a350b9741e95facb74e509/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/anismemom/.android/build-cache/348357540fe9f1f0445280b158554708e75f2bb4/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/anismemom/.android/build-cache/cb7c5840d790de3e35f4abac87d0817cd9e40973/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/anismemom/.android/build-cache/1794ec92bedf4dbe164a1af0630d1c7856a0f995/output/AndroidManifest.xml:2:3-70
+INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/cd86b9663fc8d84e821cafcd054d94ce/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/cd86b9663fc8d84e821cafcd054d94ce/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/de3b9dd3f0181041df08f8d4a349e8c4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/de3b9dd3f0181041df08f8d4a349e8c4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/b5513fc695885ee1ae459dedfab380a4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/b5513fc695885ee1ae459dedfab380a4/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/01ff7f546df5ba89aea5c34bfc8b71f9/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/01ff7f546df5ba89aea5c34bfc8b71f9/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/3fbb3c637a861a648e6a8b07ac18ac6d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/3fbb3c637a861a648e6a8b07ac18ac6d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/0d897e0b65500b891ea0d42dc3fb4d48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/0d897e0b65500b891ea0d42dc3fb4d48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/d297acd006480d31d21fce6ffbbc8a93/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/d297acd006480d31d21fce6ffbbc8a93/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/4e23e90a507095afb136073f31b9977c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/4e23e90a507095afb136073f31b9977c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/22aba18c368efa8b511ee88afd40be52/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/22aba18c368efa8b511ee88afd40be52/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/9f07b9d9f976e15061f128ad8b5c79d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/9f07b9d9f976e15061f128ad8b5c79d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/f260290a62e811cef8bb991e93d049f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/f260290a62e811cef8bb991e93d049f5/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:9:5-11:41
 	android:targetSdkVersion
 		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:11:9-38
 		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
@@ -47,17 +81,22 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/anismemom/.android/bui
 		INJECTED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:13:5-30:19
-MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.android/build-cache/e7d4c61ee2228e7d62faf6cb54f6b9190eaff548/output/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/anismemom/.android/build-cache/7d3aee0e316189062d61fc705bc7480fbbbfba9c/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/anismemom/.android/build-cache/8fb18fb91fd2a0b7c4d7d971d86648a82f8b8c74/output/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/anismemom/.android/build-cache/1794ec92bedf4dbe164a1af0630d1c7856a0f995/output/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/anismemom/.android/build-cache/7e0576cffafe043909b929bcd7de4292c4e0b3f3/output/AndroidManifest.xml:2:3-17
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/cd86b9663fc8d84e821cafcd054d94ce/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/cd86b9663fc8d84e821cafcd054d94ce/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/de3b9dd3f0181041df08f8d4a349e8c4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/de3b9dd3f0181041df08f8d4a349e8c4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/b5513fc695885ee1ae459dedfab380a4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/b5513fc695885ee1ae459dedfab380a4/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/d297acd006480d31d21fce6ffbbc8a93/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/d297acd006480d31d21fce6ffbbc8a93/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d383d61151636bcad51cb6f6b2b8aa5a/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/anismemom/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d383d61151636bcad51cb6f6b2b8aa5a/AndroidManifest.xml:2:3-17
 	android:label
 		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:16:7-39
-	android:allowBackup
-		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:15:7-33
 	android:icon
 		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:15:7-33
 	android:theme
 		ADDED from /Users/anismemom/Code/learn/TestRN/android/app/src/main/AndroidManifest.xml:18:7-38
 	android:name
